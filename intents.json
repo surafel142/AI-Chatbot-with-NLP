@@ -1,0 +1,50 @@
+{
+  "intents": [
+    {
+      "tag": "greeting",
+      "patterns": [
+        "hello", "hi", "hey", "good morning", "good afternoon", 
+        "good evening", "howdy", "what's up", "hello there",
+        "hi there", "hey there", "greetings", "how are you",
+        "how do you do", "nice to meet you"
+      ],
+      "responses": [
+        "Hello! How can I assist you today?",
+        "Hi there! What can I help you with?",
+        "Hey! Nice to see you. How can I help?",
+        "Greetings! I'm here to assist you.",
+        "Hello! I'm your AI assistant. What do you need help with?"
+      ]
+    },
+    {
+      "tag": "goodbye",
+      "patterns": [
+        "bye", "goodbye", "see you", "farewell", "take care",
+        "have a good day", "see you later", "bye bye", "until next time",
+        "I'm leaving", "catch you later"
+      ],
+      "responses": [
+        "Goodbye! Have a great day!",
+        "See you later! Feel free to come back if you have more questions.",
+        "Take care! I'm here if you need me.",
+        "Farewell! It was nice talking to you.",
+        "Bye! Don't hesitate to ask if you need help later."
+      ]
+    },
+    {
+      "tag": "thanks",
+      "patterns": [
+        "thank you", "thanks", "thank you very much", "thanks a lot",
+        "appreciate it", "thank you so much", "much obliged",
+        "I appreciate your help", "thanks for your assistance"
+      ],
+      "responses": [
+        "You're welcome!",
+        "Happy to help!",
+        "Glad I could assist you!",
+        "You're very welcome!",
+        "Anytime! That's what I'm here for."
+      ]
+    }
+  ]
+}
