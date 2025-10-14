@@ -4,7 +4,7 @@
 
 A sophisticated AI chatbot built with Python, NLTK, and TensorFlow/Keras that demonstrates advanced natural language processing capabilities. This portfolio-ready project features intent classification, response generation, and interactive conversation handling using deep learning techniques.
 
-## 🚀 Features
+## 🚀 Features 
 
 - **💬 Natural Language Understanding** - Advanced text preprocessing and tokenization
 - **🧠 LSTM Neural Network** - Deep learning for intent classification
